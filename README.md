@@ -12,6 +12,6 @@ The following packages must be installed in order for evil\_twin.py to run:
 
 ##Running
 
-To run evil\_twin.py, just run it with python as shown here:
+To run evil\_twin.py, just use the python as shown here:
 
 	python evil_twin.py -c <target ap channel> -u <upstream nic> -i <gateway nic> -s <target essid>
