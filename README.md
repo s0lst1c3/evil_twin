@@ -1,6 +1,6 @@
 # evil_twin
 
-Python script for performing basic Evil Twin attacks on open wifi networks. Developed as part of my series of tutorials on Fake AP attacks, which can be found on [solstice.me](http://solstice.me/python/wireless/scripting/2015/10/04/python-evil-twin/).
+Python script for performing basic Evil Twin attacks on open wifi networks. Code targets Python 2.x. Developed as part of my series of tutorials on Fake AP attacks, which can be found on [solstice.me](http://solstice.me/python/wireless/scripting/2015/10/04/python-evil-twin/).
 
 
 ##Dependencies
